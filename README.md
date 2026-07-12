@@ -2,9 +2,8 @@
 
 ### 👨🏻‍💻 About Me
 * 🎓 BTech in Computer Science and Engineering at **MIT Manipal**.
-* 💼 Currently a **Data Science Intern at Motherson Tech**.
+* 💼 A former **Data Science Intern at Motherson Technology & Services**.
 * 🚀 I specialize in building Full-Stack AI Applications (FastAPI, Next.js, React) and Systems (CUDA, Compilers).
-* 🌍 Balancing my current internship deliverables and coursework from Patna.
 
 ### 🛠️ Tech Stack & Tools
 * **Frontend:** React.js, Next.js
