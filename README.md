@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Shresth Bipin 👋
 
-<!--
-**shresth135/shresth135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 About Me
+* 🎓 BTech in Computer Science and Engineering at **MIT Manipal**.
+* 💼 Currently a **Data Science Intern at Motherson Tech**.
+* 🚀 I specialize in building Full-Stack AI Applications (FastAPI, Next.js, React) and Systems (CUDA, Compilers).
+* 🌍 Balancing my current internship deliverables and coursework from Patna.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Frontend:** React.js, Next.js
+* **Backend:** FastAPI, Node.js
+* **Systems/Low-Level:** CUDA, C/C++, Compilers
+* **Infrastructure & CI/CD:** Docker, Vercel, Render, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Highlighted Work
+* **[Cloud Infrastructure Clone](https://route53-clone-beryl.vercel.app):** A full-stack routing application deployed utilizing containerized Docker workflows and Vercel. 
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/shresthbipin](https://www.linkedin.com/in/shresthbipin)
+* **Email:** [shresthbipin1892005@gmail.com](mailto:shresthbipin1892005@gmail.com)
+
+---
+⭐️ *Feel free to check out my repositories below to see my work in AI, systems programming, and web development!*
